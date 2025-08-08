@@ -9,9 +9,9 @@
 
 <h2>Objectives</h2>
 
-* Extract information from a given web site 
+* Extract information from a given website 
 * Scrape the names of the programming languages & average salary
-* Write the scraped data into a csv file
+* Write the scraped data into a CSV file
 
 <h2>Tools Used</h2>
 
