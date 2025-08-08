@@ -19,3 +19,4 @@
 * Python
 * Pandas
 * Beautiful Soup
+* Requests
