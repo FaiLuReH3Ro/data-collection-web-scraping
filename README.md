@@ -21,7 +21,8 @@
 * Beautiful Soup
 * Requests
 
+## Jupyter Notebook
 
-<img src = 'Screenshots/1.PNG'>
-<img src = 'Screenshots/2.PNG'>
-<img src = 'Screenshots/3.PNG'>
+Please click on the link below to view or download the notebook.
+
+[Web Scraping - Python](https://github.com/FaiLuReH3Ro/DataCollection-WebScraping/blob/main/Collecting_Data_Using_Web_Scraping.ipynb)
