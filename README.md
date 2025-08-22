@@ -1,5 +1,11 @@
 <h1>Data Collection - Web Scraping</h1>
 
+## Jupyter Notebook
+
+Please click on the link below to view or download the notebook.
+
+[Web Scraping - Python](https://github.com/FaiLuReH3Ro/data-collection-web-scraping/blob/main/Collecting_Data_Using_Web_Scraping.ipynb)
+
 <p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-collection'>Data Collection</a> section.</p>
 
 <h2>Website Used</h2>
@@ -20,9 +26,3 @@
 * Pandas
 * Beautiful Soup
 * Requests
-
-## Jupyter Notebook
-
-Please click on the link below to view or download the notebook.
-
-[Web Scraping - Python](https://github.com/FaiLuReH3Ro/data-collection-web-scraping/blob/main/Collecting_Data_Using_Web_Scraping.ipynb)
