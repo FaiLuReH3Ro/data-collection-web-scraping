@@ -1,4 +1,4 @@
-<h1>Data Collection - Web Scraping 🌐</h1>
+<h1>Data Collection - Web Scraping 📝</h1>
 
 <p>This repository is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#data-collection'>Data Collection</a> section.</p>
 
