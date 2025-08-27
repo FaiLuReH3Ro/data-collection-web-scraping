@@ -4,13 +4,13 @@
 
 ## 📓 Jupyter Notebook
 
-Please click on the link below to view or download the notebook.
+> Please click on the link below to view or download the notebook.
 
 👉 [Web Scraping - Python](https://github.com/FaiLuReH3Ro/data-collection-web-scraping/blob/main/Collecting_Data_Using_Web_Scraping.ipynb)
 
 <h2>🖥️ Website Used</h2>
 
-📌 <a href = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html'>Website Source</a>
+🔗 <a href = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html'>Website Source</a>
 > This is a website on the IBM Cloud
 
 <h2>🚀 Objectives</h2>
