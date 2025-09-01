@@ -4,9 +4,13 @@
 
 ## 📓 Jupyter Notebook
 
-> Please click on the link below to view or download the notebook.
+> Notebook on Kaggle
 
-👉 [Web Scraping - Python](https://github.com/FaiLuReH3Ro/data-collection-web-scraping/blob/main/Collecting_Data_Using_Web_Scraping.ipynb)
+👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/collecting-data-using-web-scraping)
+
+> Click on the link below to view or download the notebook on GitHub.
+
+👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/data-collection-web-scraping/blob/main/Collecting_Data_Using_Web_Scraping.ipynb)
 
 <h2>🖥️ Website Used</h2>
 
