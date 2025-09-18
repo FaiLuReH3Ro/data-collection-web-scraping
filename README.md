@@ -9,6 +9,7 @@
 
 👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/collecting-data-using-web-scraping)
 
+<br>
 
 > [!NOTE]
 > Click on the link below to view or download the notebook on GitHub.
